@@ -1,0 +1,27 @@
+# Windows and Excel temporary files
+Thumbs.db
+Desktop.ini
+~$*
+*.tmp
+*.bak
+*.old
+
+# Generated inspection and lock files
+*.inspect.ndjson
+*.lock
+.~lock.*
+
+# Development caches and local environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+node_modules/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+dist/
+build/
+
+# Exact duplicate of the parenthesized 2025 parallel-admission PDF
+2025年普通高校招生普通类本科批次-平行志愿投档线-物理类.pdf
